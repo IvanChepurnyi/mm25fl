@@ -39,7 +39,7 @@ layout: fact
 
 ---
 layout: image-left
-image: /coolblue.png
+image: ./coolblue.png
 imageColClass: ml-0 my-0 bg-center
 ---
 
@@ -60,7 +60,7 @@ imageColClass: ml-0 my-0 bg-center
 
 ---
 layout: image-left
-image: /hosting.png
+image: ./hosting.png
 imageColClass: ml-0 my-0 bg-center
 ---
 
