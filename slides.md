@@ -266,7 +266,7 @@ layout: fact
 
 Access slides here:
 
-[slides.ecom.dev/mm25fl](https://slides.ecom.dev/)
+[slides.ecom.dev/mm25fl](https://slides.ecom.dev/mm25fl)
 
 Need Help?
 [ivan@ecom.dev](mailto:ivan@ecom.dev)
