@@ -13,9 +13,6 @@ title: 200 Domains on one Magento Instance with $300 Hosting Bill
 # $300 Hosting Bill
 
 ---
-# 
-
----
 
 # About me
 
@@ -247,11 +244,6 @@ Added before plugin to trim request path of virtual root category
 Added after plugin to strip virtual category root prefix from rendering on the frontend url
 
 </v-clicks>
-
---- 
-
-# Numbers
-[TBD] 
 
 ---
 layout: fact
